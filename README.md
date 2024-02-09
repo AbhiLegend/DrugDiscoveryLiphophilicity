@@ -1,3 +1,5 @@
+
+## [![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
 ## The flask app
 The Flask code you've provided is for a web application that predicts molecular properties based on SMILES (Simplified Molecular Input Line Entry System) strings. Here's a breakdown of what each part of the code does:
 
